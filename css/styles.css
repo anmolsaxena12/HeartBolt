@@ -1,0 +1,93 @@
+@media (max-width:1000) {
+#title{
+  text-align: center;
+}
+  .top-img{
+    transform: rotate(0);
+    position: static;
+  }
+}
+
+.container-fluid{
+  background: linear-gradient(180deg, #FF6F3E 0%, #FF458D 52.1%);
+}
+
+h1{
+  line-height: 1.5em;
+  font-size: 3em;
+
+}
+.nav-item{
+  padding: 1em;
+}
+.top-img{
+  transform: rotate(19.8deg);
+  height: 550px;
+  margin-left: 100px;
+}
+
+#first{
+  text-align: center;
+}
+.logo{
+  margin: 0 auto 0;
+  padding: 2em;
+}
+
+.feature-item{
+  padding: 2em;
+}
+
+
+
+#features{
+  text-align: center;
+  padding:3% 5%;
+  z-index: 1;
+}
+.press-logo{
+  margin: 2em;
+  height:50px;
+}
+
+#testimonials h1 {
+text-align: right;
+  margin:50% auto 50%;
+}
+#testimonials img {
+  height:500px;
+  position: relative;
+  top:150px;
+}
+#pricing{
+  padding: 3% 15%;
+  text-align: center;
+}
+
+#pricing h2{
+  font-weight: 700;
+  padding-top: 1.5em;
+}
+#pricing p{
+  padding-bottom: 1.5em;
+}
+#cta{
+  padding: 3% 15%;
+  text-align: center;
+  background: #FF6F3E ;
+  color: white;
+}
+#cta h3{
+  font-weight: 800;
+  letter-spacing: 2px;
+  font-size: 3em;
+  padding: 5%;
+}
+#cta button{
+  margin: 15%;
+}
+#footer{
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 200;
+}
